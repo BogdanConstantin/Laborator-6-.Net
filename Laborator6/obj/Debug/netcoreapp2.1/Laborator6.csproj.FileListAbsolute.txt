@@ -1,0 +1,123 @@
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.deps.json
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.runtimeconfig.json
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.runtimeconfig.dev.json
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.dll
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.pdb
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.Views.dll
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.Views.pdb
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csprojAssemblyReference.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorAssemblyInfo.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorAssemblyInfo.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.AssemblyInfoInputs.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.AssemblyInfo.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.TagHelpers.input.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.TagHelpers.output.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorCoreGenerate.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorTargetAssemblyInfo.cache
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorTargetAssemblyInfo.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.Views.pdb
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.dll
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.pdb
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csproj.CopyComplete
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Index.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Create.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Details.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Edit.g.cshtml.cs
+D:\Facultate\Anul III\.net\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Delete.g.cshtml.cs
+d:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+d:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\DataLayer.dll
+d:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+d:\Facultate\Anul III\.net\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.deps.json
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.runtimeconfig.json
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.runtimeconfig.dev.json
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.Views.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.Views.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csprojAssemblyReference.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csproj.CoreCompileInputs.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorAssemblyInfo.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorAssemblyInfo.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.AssemblyInfoInputs.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.AssemblyInfo.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.TagHelpers.input.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.TagHelpers.output.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorCoreGenerate.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Create.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Delete.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Details.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Edit.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Index.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorTargetAssemblyInfo.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorTargetAssemblyInfo.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.Views.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csproj.CopyComplete
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.pdb
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.deps.json
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.runtimeconfig.json
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.runtimeconfig.dev.json
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.dll
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.pdb
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.Views.dll
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\Laborator6.Views.pdb
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Laborator6 .Net\Laborator6\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csprojAssemblyReference.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csproj.CoreCompileInputs.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorAssemblyInfo.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorAssemblyInfo.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.AssemblyInfoInputs.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.AssemblyInfo.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.TagHelpers.input.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.TagHelpers.output.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorCoreGenerate.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Create.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Delete.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Details.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Edit.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Pois\Index.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorTargetAssemblyInfo.cache
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.RazorTargetAssemblyInfo.cs
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.Views.pdb
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.csproj.CopyComplete
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.dll
+C:\Laborator6 .Net\Laborator6\obj\Debug\netcoreapp2.1\Laborator6.pdb

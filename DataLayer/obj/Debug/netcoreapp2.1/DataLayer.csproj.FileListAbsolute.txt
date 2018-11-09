@@ -1,0 +1,26 @@
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+D:\Facultate\Anul III\.net\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Laborator6 .Net\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Laborator6 .Net\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Laborator6 .Net\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Laborator6 .Net\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+C:\Laborator6 .Net\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Laborator6 .Net\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Laborator6 .Net\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Laborator6 .Net\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Laborator6 .Net\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb

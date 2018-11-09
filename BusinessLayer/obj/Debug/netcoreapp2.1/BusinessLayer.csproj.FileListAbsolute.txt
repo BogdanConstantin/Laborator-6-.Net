@@ -1,0 +1,36 @@
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+D:\Facultate\Anul III\.net\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Cmirza\Desktop\Tema6\Laborator6\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Laborator6 .Net\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Laborator6 .Net\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Laborator6 .Net\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Laborator6 .Net\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Laborator6 .Net\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Laborator6 .Net\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
